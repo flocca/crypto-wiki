@@ -39,6 +39,7 @@
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
+- [Tiziano Tridico](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
 
 ##### Non solo crypto
 
