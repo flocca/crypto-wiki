@@ -41,6 +41,7 @@
 ### Piattaforme su Celo
 - [Sushi](https://app.sushi.com/farm)
 - [PoolTogether](https://app.pooltogether.com/?filter=celo)
+  - [Docs](https://docs.pooltogether.com/)
 - [Beefy](https://app.beefy.finance/#/celo)
 - [Dahlia](https://dahlia.finance/)
   - [Docs](https://dahlia-finance.gitbook.io/dahlia-finance/)
