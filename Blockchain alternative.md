@@ -36,6 +36,7 @@
 ## Celo
 
 - [Analisi di The Crypto Gateway (video)](https://youtu.be/Tvqwhr4oCGY)
+- [Analisi di Crypto Ita (video)](https://youtu.be/0veuPDIfL_c)
 
 ### Piattaforme su Celo
 - [Sushi](https://app.sushi.com/farm)
