@@ -2,7 +2,13 @@
 
 - [Glossario](Glossario.md)
 - [Piattaforme CeFi](CeFi.md)
-- [Blockchain alternative](Blockchain%20alternative.md)
+
+## Blockchain
+
+- Bitocin
+- Ethereum
+- [Polkadot](Polkadot.md)
+- [Altre](Blockchain%20alternative.md)
 
 ## Wallet
 
