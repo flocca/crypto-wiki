@@ -11,6 +11,10 @@
 - [Dollar Cost Averaging Bitcoin](https://dcabtc.com/) - Simulatore PAC su Bitcoin
 - [TradingView](https://it.tradingview.com/gopro/?share_your_love=flocca)
 
+### DeFi
+
+- [DeFi Lama](https://defillama.com/)
+
 ### CEX (Exchange centralizzati)
 
 - [Binance](https://accounts.binance.com/it/register?ref=Y5H8ZS0W) - Spot, CeFi
