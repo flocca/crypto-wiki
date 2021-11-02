@@ -19,6 +19,10 @@
 
 - [Analisi di The Crypto Gateway (video)](https://youtu.be/E29jCTsIKOs)
 
+### Wallet per Polygon
+
+- [MetaMask](https://metamask.io)
+
 ### Piattaforme su Polygon
 
 - Aave
@@ -27,6 +31,10 @@
 ## Fantom
 
 - [Analisi di The Crypto Gateway (video)](https://youtu.be/C3CwGCGh97g)
+
+### Wallet per Fantom
+
+- [MetaMask](https://metamask.io)
 
 ### Piattaforme su Fantom
 
@@ -60,3 +68,8 @@
 - [Beefy](https://app.beefy.finance/#/celo)
 - [Dahlia](https://dahlia.finance/)
   - [Docs](https://dahlia-finance.gitbook.io/dahlia-finance/)
+
+### Wallet per Celo
+
+- [Valora](https://valoraapp.com/)
+- [MetaMask](https://metamask.io)
