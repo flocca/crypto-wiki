@@ -1,5 +1,7 @@
 # crypto-wiki
 
+- [Glossario](Glossario.md)
+
 ## Wallet
 
 - [Ledger](https://www.ledger.com) - Hardware wallet, BTC, ETH e molte altre
