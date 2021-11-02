@@ -43,7 +43,7 @@
 
 #### Massimo S. Musumeci
 
-Massimalista Bitcoin specalizzato in privacy e sicurezza.
+Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 
 - [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
 - [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
