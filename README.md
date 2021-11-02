@@ -14,7 +14,6 @@
 - [Avalanche](Avalanche.md)
 - [Fantom](Fantom.md)
 - [Polkadot](Polkadot.md)
-- [Altre](Blockchain%20alternative.md)
 
 ## Wallet
 
