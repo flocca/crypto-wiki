@@ -4,3 +4,4 @@
 - Celsius
 - Nexo
 - BlockFi
+- Crypto.com
