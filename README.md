@@ -15,19 +15,11 @@
 - [Fantom (FTM)](Fantom.md)
 - [Polkadot (DOT)](Polkadot.md)
 
-## Wallet
-
-- [Ledger](https://www.ledger.com) - Hardware wallet, BTC, ETH e molte altre
-- [MetaMask](https://metamask.io) - Estensione software, Per Ethereum e le altre reti compatibili (tante)
-
 ## Strumenti
 
 - [CoinGecko](https://www.coingecko.com/it)
 - [Dollar Cost Averaging Bitcoin](https://dcabtc.com/) - Simulatore PAC su Bitcoin
 - [TradingView](https://it.tradingview.com/gopro/?share_your_love=flocca)
-
-### DeFi
-
 - [DeFi Lama](https://defillama.com/) - Analisi del TVL delle varie chain e piattaforme
 
 ### CEX (Exchange centralizzati)
@@ -41,12 +33,22 @@
 
 ### Divulgatori
 
+#### Tiziano Tridico
+
+- [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
+
 #### Massimo S. Musumeci
 
 Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 
 - [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
 - [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
+
+#### Vito Lops
+
+Giornalista del Sole 24 Ore, Finanza e investimenti
+
+- [Canale YouTube](https://www.youtube.com/user/vitoclaps)
 
 ### Canali YouTube
 
@@ -59,11 +61,9 @@ Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
-- [Tiziano Tridico](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
 
 ##### Non solo crypto
 
-- [Vito Lops](https://www.youtube.com/user/vitoclaps) - Giornalista del Sole 24 Ore, Finanza e investimenti
 - [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
 - [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
 
