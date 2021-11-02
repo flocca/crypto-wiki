@@ -28,68 +28,68 @@
 
 - [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
 
-### Divulgatori (IT)
+## Divulgatori (IT)
 
-#### Tiziano Tridico
+### Tiziano Tridico
 
 - [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
 
-#### Massimo S. Musumeci
+### Massimo S. Musumeci
 
 Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 
 - [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
 - [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
 
-#### Marco Cavicchioli
+### Marco Cavicchioli
 
 Notizie, Analisi del trend grossolane
 
 - [Canale YouTube](https://www.youtube.com/c/MarcocavicchioliIt)
 
-#### Vito Lops
+### Vito Lops
 
 Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Canale YouTube](https://www.youtube.com/user/vitoclaps)
 
-### Divulgatori (EN)
+## Divulgatori (EN)
 
-#### Taiki Maeda
+### Taiki Maeda
 
 Farming
 
 - [Canale YouTube](https://www.youtube.com/user/TheTaikster)
 
-#### danku_r
+### danku_r
 
 Terra, DeFi, NFT
 
 - [Canale YouTube](https://www.youtube.com/c/dankur)
 
-#### Coin Bureau
+### Coin Bureau
 
 Notizie, Analisi fondamentale token e chain
 
 - [Canale YouTube](https://www.youtube.com/c/CoinBureau)
 
-### Canali YouTube
+## Canali YouTube
 
-#### In italiano
+### In italiano
 
-##### Crypto
+#### Crypto
 
 - [The Crypto Gateway](https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial) - DeFi, Analisi findamentale token e chain, Trading, Investimenti
 - [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 
-##### Non solo crypto
+#### Non solo crypto
 
 - [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
 - [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
 
-## Altro
+# Altro
 
 - [Glossario](Glossario.md)
 - [Piattaforme CeFi](CeFi.md)
