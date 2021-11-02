@@ -1,5 +1,11 @@
 # crypto-wiki
 
+## Wallet
+
+- [Ledger](https://www.ledger.com) - Hardware wallet
+- [MetaMask](https://metamask.io) - Estensione software, Per Ethereum e le altre reti compatibili (tante)
+- [Terra Station (Chrome, Brave)](https://chrome.google.com/webstore/detail/terra-station/aiifbnbfobpmeekipheeijimdpnlpgpp) - Per la rete Terra
+
 ## Link utili
 
 ### CEX (Exchange centralizzati)
