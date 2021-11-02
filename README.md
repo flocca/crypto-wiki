@@ -2,7 +2,7 @@
 
 - [Glossario](Glossario.md)
 - [Piattaforme CeFi](CeFi.md)
-- [Piattaforme DeFi](DeFi.md)
+- [Blockchain alternative](Blockchain alternative.md)
 
 ## Wallet
 
