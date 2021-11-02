@@ -1,8 +1,5 @@
 # crypto-wiki
 
-- [Glossario](Glossario.md)
-- [Piattaforme CeFi](CeFi.md)
-
 ## Blockchain
 
 - [Bitcoin (BTC)](Bitcoin.md)
@@ -72,3 +69,8 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 - [Taiki Maeda](https://www.youtube.com/user/TheTaikster) - Farming
 - [danku_r](https://www.youtube.com/c/dankur) - Terra, DeFi, NFT
 - [Coin Bureau](https://www.youtube.com/c/CoinBureau) - Notizie, Analisi fondamentale token e chain
+
+## Altro
+
+- [Glossario](Glossario.md)
+- [Piattaforme CeFi](CeFi.md)
