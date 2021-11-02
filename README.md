@@ -15,7 +15,7 @@
 
 #### In italiano
 
-- [The Crypto Gateway](https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial)
+- [The Crypto Gateway](https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial) - DeFi, Analisi findamentale token e chain, Trading, Investimenti
 - [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
