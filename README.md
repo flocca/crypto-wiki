@@ -51,6 +51,7 @@
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
 - [Tiziano Tridico](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
+- [Massimo S. Musumeci](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q) - Massimalista Bitcoin, Privacy, Sicurezza
 
 ##### Non solo crypto
 
