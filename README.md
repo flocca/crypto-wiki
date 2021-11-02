@@ -41,6 +41,12 @@ Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 - [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
 - [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
 
+#### Marco Cavicchioli
+
+Notizie, Analisi del trend grossolane
+
+- [Canale YouTube](https://www.youtube.com/c/MarcocavicchioliIt)
+
 #### Vito Lops
 
 Giornalista del Sole 24 Ore, Finanza e investimenti
@@ -77,7 +83,6 @@ Notizie, Analisi fondamentale token e chain
 - [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
-- [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
 
 ##### Non solo crypto
 
