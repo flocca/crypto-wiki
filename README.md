@@ -8,6 +8,7 @@
 - [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
+- [Vito Lops](https://www.youtube.com/user/vitoclaps) - Finanza e investimenti (non solo crypto)
 
 ### In inglese
 
