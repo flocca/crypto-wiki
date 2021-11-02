@@ -5,7 +5,7 @@
 
 ## Blockchain
 
-- Bitocin
+- Bitcoin
 - Ethereum
 - [Polygon](Polygon.md)
 - [Terra](Terra.md)
