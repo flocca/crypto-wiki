@@ -13,7 +13,7 @@
 
 ### DeFi
 
-- [DeFi Lama](https://defillama.com/)
+- [DeFi Lama](https://defillama.com/) - Analisi del TVL delle varie chain e piattaforme
 
 ### CEX (Exchange centralizzati)
 
