@@ -39,6 +39,15 @@
 
 - [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
 
+### Divulgatori
+
+#### Massimo S. Musumeci
+
+Massimalista Bitcoin specalizzato in privacy e sicurezza.
+
+- [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
+- [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
+
 ### Canali YouTube
 
 #### In italiano
@@ -51,7 +60,6 @@
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 - [Marco Cavicchioli](https://www.youtube.com/c/MarcocavicchioliIt) - Notizie, Analisi del trend grossolane
 - [Tiziano Tridico](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
-- [Massimo S. Musumeci](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q) - Massimalista Bitcoin, Privacy, Sicurezza
 
 ##### Non solo crypto
 
