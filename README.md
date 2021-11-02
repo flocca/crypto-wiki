@@ -7,6 +7,12 @@
 
 - Bitocin
 - Ethereum
+- [Polygon](Polygon.md)
+- [Terra](Terra.md)
+- [Celo](Celo.md)
+- [Solana](Solana.md)
+- [Avalanche](Avalanche.md)
+- [Fantom](Fantom.md)
 - [Polkadot](Polkadot.md)
 - [Altre](Blockchain%20alternative.md)
 
