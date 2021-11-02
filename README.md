@@ -5,15 +5,15 @@
 
 ## Blockchain
 
-- Bitcoin
-- Ethereum
-- [Polygon](Polygon.md)
-- [Terra](Terra.md)
-- [Celo](Celo.md)
-- [Solana](Solana.md)
-- [Avalanche](Avalanche.md)
-- [Fantom](Fantom.md)
-- [Polkadot](Polkadot.md)
+- [Bitcoin (BTC)](Bitcoin.md)
+- Ethereum (ETH)
+- [Polygon (MATIC)](Polygon.md)
+- [Terra (LUNA)](Terra.md)
+- [Celo (CELO)](Celo.md)
+- [Solana (SOL)](Solana.md)
+- [Avalanche (AVAX)](Avalanche.md)
+- [Fantom (FTM)](Fantom.md)
+- [Polkadot (DOT)](Polkadot.md)
 
 ## Wallet
 
