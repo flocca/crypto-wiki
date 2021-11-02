@@ -1,6 +1,8 @@
-# Piattaforme DeFi
+# Blockchain alternative
 
 ## Polygon
+
+- [Analisi di The Crypto Gateway (video)](https://youtu.be/E29jCTsIKOs)
 
 ## Fantom
 
