@@ -1,6 +1,7 @@
 # crypto-wiki
 
 - [Glossario](Glossario.md)
+- [Piattaforme CeFi](CeFi.md)
 
 ## Wallet
 
