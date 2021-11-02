@@ -1,5 +1,10 @@
 # crypto-wiki
 
+## CEX (Exchange centralizzati)
+
+- [Binance](https://accounts.binance.com/it/register?ref=Y5H8ZS0W) - Spot, CeFi
+- [FTX](https://ftx.com/#a=flocca) - Spot, Futures, SEPA
+
 ## Canali YouTube
 
 ### In italiano
