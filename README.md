@@ -2,7 +2,7 @@
 
 ## Wallet
 
-- [Ledger](https://www.ledger.com) - Hardware wallet
+- [Ledger](https://www.ledger.com) - Hardware wallet, BTC, ETH e molte altre
 - [MetaMask](https://metamask.io) - Estensione software, Per Ethereum e le altre reti compatibili (tante)
 - [Terra Station (Chrome, Brave)](https://chrome.google.com/webstore/detail/terra-station/aiifbnbfobpmeekipheeijimdpnlpgpp) - Per la rete Terra
 
