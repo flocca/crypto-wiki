@@ -28,7 +28,7 @@
 
 - [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
 
-### Divulgatori
+### Divulgatori (IT)
 
 #### Tiziano Tridico
 
@@ -47,6 +47,26 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Canale YouTube](https://www.youtube.com/user/vitoclaps)
 
+### Divulgatori (EN)
+
+#### Taiki Maeda
+
+Farming
+
+- [Canale YouTube](https://www.youtube.com/user/TheTaikster)
+
+#### danku_r
+
+Terra, DeFi, NFT
+
+- [Canale YouTube](https://www.youtube.com/c/dankur)
+
+#### Coin Bureau
+
+Notizie, Analisi fondamentale token e chain
+
+- [Canale YouTube](https://www.youtube.com/c/CoinBureau)
+
 ### Canali YouTube
 
 #### In italiano
@@ -63,12 +83,6 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
 - [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
-
-#### In inglese
-
-- [Taiki Maeda](https://www.youtube.com/user/TheTaikster) - Farming
-- [danku_r](https://www.youtube.com/c/dankur) - Terra, DeFi, NFT
-- [Coin Bureau](https://www.youtube.com/c/CoinBureau) - Notizie, Analisi fondamentale token e chain
 
 ## Altro
 
