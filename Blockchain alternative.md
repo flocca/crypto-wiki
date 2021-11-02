@@ -1,5 +1,12 @@
 # Blockchain alternative
 
+## Solana
+
+- [Analisi di The Crypto Gateway (video, ITA)](https://youtu.be/azL1q-vAx1M)
+- [Analisi di Tiziano Tridico (video, ITA)](https://www.youtube.com/watch?v=GR1D7VrK5oY)
+
+### Piattaforme su Solana
+
 ## Polygon
 
 - [Analisi di The Crypto Gateway (video)](https://youtu.be/E29jCTsIKOs)
