@@ -30,6 +30,15 @@
 
 ## Divulgatori (IT)
 
+### Luca Boiardi - The Crypto Gateway
+
+DeFi, Analisi findamentale token e chain, Analisi tecnica, Trading, Investimenti.
+
+- [YouTube](https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial)
+- [Twitch](https://www.twitch.tv/thecryptogateway)
+- [Telegram](https://t.me/TheCryptoGateway)
+- [Twitter](https://twitter.com/crypto_gateway)
+
 ### Tiziano Tridico
 
 - [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
@@ -55,6 +64,12 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 
 ## Divulgatori (EN)
 
+### Coin Bureau
+
+Notizie, Analisi fondamentale token e chain
+
+- [Canale YouTube](https://www.youtube.com/c/CoinBureau)
+
 ### Taiki Maeda
 
 Farming
@@ -67,19 +82,12 @@ Terra, DeFi, NFT
 
 - [Canale YouTube](https://www.youtube.com/c/dankur)
 
-### Coin Bureau
-
-Notizie, Analisi fondamentale token e chain
-
-- [Canale YouTube](https://www.youtube.com/c/CoinBureau)
-
 ## Canali YouTube
 
 ### In italiano
 
 #### Crypto
 
-- [The Crypto Gateway](https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial) - DeFi, Analisi findamentale token e chain, Trading, Investimenti
 - [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
