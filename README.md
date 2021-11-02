@@ -12,6 +12,7 @@
 
 ## Strumenti
 
+- [CoinGecko](https://www.coingecko.com/it)
 - [Dollar Cost Averaging Bitcoin](https://dcabtc.com/) - Simulatore PAC su Bitcoin
 - [TradingView](https://it.tradingview.com/gopro/?share_your_love=flocca)
 
