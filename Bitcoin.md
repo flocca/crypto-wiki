@@ -4,4 +4,5 @@
 
 ## Wallet
 
-- [Ledger](https://www.ledger.com)
+- [Electrum (software)](https://electrum.org/)
+- [Ledger (hardware)](https://www.ledger.com)
