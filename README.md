@@ -8,6 +8,7 @@
 
 ## Strumenti
 
+- [Dollar Cost Averaging Bitcoin](https://dcabtc.com/) - Simulatore PAC su Bitcoin
 - [TradingView](https://it.tradingview.com/gopro/?share_your_love=flocca)
 
 ### CEX (Exchange centralizzati)
