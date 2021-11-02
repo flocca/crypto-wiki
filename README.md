@@ -7,6 +7,10 @@
 - [Binance](https://accounts.binance.com/it/register?ref=Y5H8ZS0W) - Spot, CeFi
 - [FTX](https://ftx.com/#a=flocca) - Spot, Futures, SEPA
 
+### CeFi
+
+- [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
+
 ### Canali YouTube
 
 #### In italiano
