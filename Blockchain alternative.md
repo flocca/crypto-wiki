@@ -43,3 +43,4 @@
 - [PoolTogether](https://app.pooltogether.com/?filter=celo)
 - [Beefy](https://app.beefy.finance/#/celo)
 - [Dahlia](https://dahlia.finance/)
+  - [Docs](https://dahlia-finance.gitbook.io/dahlia-finance/)
