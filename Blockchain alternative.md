@@ -5,7 +5,15 @@
 - [Analisi di The Crypto Gateway (video, ITA)](https://youtu.be/azL1q-vAx1M)
 - [Analisi di Tiziano Tridico (video, ITA)](https://www.youtube.com/watch?v=GR1D7VrK5oY)
 
+### Wallet per Solana
+
+- [Phantom](https://phantom.app/)
+
 ### Piattaforme su Solana
+
+- [Marinade](https://marinade.finance/)
+- [Mercurial Finance](https://mercurial.finance/)
+- [Francium](https://francium.io/)
 
 ## Polygon
 
