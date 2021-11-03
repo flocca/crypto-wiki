@@ -3,7 +3,7 @@
 ## Blockchain
 
 - [Bitcoin (BTC)](Bitcoin.md)
-- Ethereum (ETH)
+- [Ethereum (ETH)](Ethereum.md)
 - [Polygon (MATIC)](Polygon.md)
 - [Terra (LUNA)](Terra.md)
 - [Celo (CELO)](Celo.md)
