@@ -17,6 +17,10 @@
 - [Fantom (FTM)](Fantom.md)
 - [Polkadot (DOT)](Polkadot.md)
 
+## Altro
+
+- [PAX Gold (oro tokenizzato)](PAXG.md)
+
 ## Strumenti
 
 - [CoinGecko](https://www.coingecko.com/it)
