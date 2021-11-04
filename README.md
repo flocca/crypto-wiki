@@ -2,7 +2,8 @@
 
 ## Concetti fondamentali
 
-- [Smart Contracts](Smart%20Contracts.md)
+- [Blockchain](Blockchain.md)
+- [Smart Contract](Smart%20Contract.md)
 
 ## Blockchain
 
