@@ -39,6 +39,18 @@ DeFi, Analisi findamentale token e chain, Analisi tecnica, Trading, Investimenti
 - [Telegram](https://t.me/TheCryptoGateway)
 - [Twitter](https://twitter.com/crypto_gateway)
 
+### Crypto Ita
+
+DeFi, Analisi findamentale token e chain
+
+- [YouTube](https://www.youtube.com/c/CryptoIta)
+
+### Crypto Farm Italia
+
+DeFi, Farming.
+
+- [Canale YouTube](https://www.youtube.com/channel/UCaBxOlEJ8W0G094bNOhshgg)
+
 ### Tiziano Tridico
 
 - [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
@@ -88,7 +100,6 @@ Terra, DeFi, NFT
 
 #### Crypto
 
-- [Crypto Ita](https://www.youtube.com/c/CryptoIta) - DeFi, Analisi findamentale token e chain
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
 
