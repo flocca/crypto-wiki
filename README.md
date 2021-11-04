@@ -1,5 +1,9 @@
 # crypto-wiki
 
+## Concetti fondamentali
+
+- [Smart Contracts](Smart%20Contracts.md)
+
 ## Blockchain
 
 - [Bitcoin (BTC)](Bitcoin.md)
