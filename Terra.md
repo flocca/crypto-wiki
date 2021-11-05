@@ -7,6 +7,6 @@
 
 ## Piattaforme
 
-- Anchor
+- [Anchor Protocol](Anchor.md)
 - Mirror
 - [Nexus Protocol](Nexus%20Protocol.md)
