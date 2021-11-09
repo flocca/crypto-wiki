@@ -1,5 +1,12 @@
 # Cronos
 
+- [Configurazione MetaMask](https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta)
+
+## Piattaforme
+
+- VVS Finance (dex)
+- Tectonic (money market)
+
 ## Altre risorse
 
 - [CromUK's Cronos Project Spotlight](https://airtable.com/shrFtMD61leDezvRM/tblBHDX8RBNUOP5BG)
