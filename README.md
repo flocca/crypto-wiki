@@ -16,6 +16,7 @@
 - [Avalanche (AVAX)](Avalanche.md)
 - [Fantom (FTM)](Fantom.md)
 - [Polkadot (DOT)](Polkadot.md)
+- [Cronos (CRO)](Cronos.md)
 
 ## Altro
 
