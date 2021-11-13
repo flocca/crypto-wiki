@@ -1,5 +1,10 @@
 # crypto-wiki
 
+## Libri
+
+- [Il Bitcoin Standard (Saifedean Ammous) - Amazon](https://shop.usemlab.com/home/85-the-bitcoin-standard-edizione-italiana.html)
+- [Mastering Bitcoin (Andreas M. Antonopoulos, 2a edizione) - PDF](https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf)
+
 ## Concetti fondamentali
 
 - [Blockchain](Blockchain.md)
