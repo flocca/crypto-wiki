@@ -44,7 +44,12 @@
 
 - [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
 
-## Divulgatori (IT)
+## Risorse (IT)
+
+### Bitcoin Italia Podcast
+
+- [Pocast](https://podcasts.apple.com/it/podcast/bitcoin-italia-podcast/id1448127905)
+- [Instagram](https://www.instagram.com/bip_show/?utm_medium=copy_link)
 
 ### Luca Boiardi - The Crypto Gateway
 
