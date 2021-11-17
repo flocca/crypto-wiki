@@ -13,3 +13,10 @@
 - [Marinade](https://marinade.finance/)
 - [Mercurial Finance](https://mercurial.finance/)
 - [Francium](https://francium.io/)
+
+## Mettere a rendita i SOL
+
+- Utilizzare [Marinade](https://marinade.finance/) per mettere in staking liquido i SOL al 6,67% ottenendo così i token mSOL.
+- Gli mSOL sono interest bearing tokens, prendono valore.
+- Spostare gli mSOL sulla app FTX (ex-Blockfolio) mettendoli a rendita al 8%
+- In questo modo si otterrà un interesse composto del 15,20% circa.
