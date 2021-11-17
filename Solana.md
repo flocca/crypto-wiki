@@ -16,6 +16,10 @@
 
 ## Mettere a rendita i SOL
 
+Essendo Solana un protocollo PoS (Proof Of Stake) è possibile mettere in staking i propri SOL delegandoli ai validatori che processsano le transazioni e fanno funzionare la rete.
+
+Allo staking nativo esiste un'alternativa che rende possibile uno staking liquido, con la possibilità di incrementare ulteriormente gli interessi dello staking.
+
 - Utilizzare [Marinade](https://marinade.finance/) per mettere in staking liquido i SOL al 6,67% ottenendo così i token mSOL.
 - Gli mSOL sono interest bearing tokens, prendono valore.
 - Spostare gli mSOL sulla app FTX (ex-Blockfolio) mettendoli a rendita al 8%.
