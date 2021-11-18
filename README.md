@@ -129,6 +129,12 @@ Terra, DeFi, NFT
 - [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
 - [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
 
+### In inglese
+
+#### Crypto
+
+- [The CryptoDad](https://www.youtube.com/c/CryptoDad) - Semplici tutorial per newbies
+
 # Altro
 
 - [Glossario](Glossario.md)
