@@ -45,12 +45,14 @@
 
 - [Mastering Bitcoin (Andreas M. Antonopoulos, 2a edizione) - PDF](https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf)
 
-### Bitcoin Italia Podcast
+### Divulgatori
+
+#### Bitcoin Italia Podcast
 
 - [Pocast](https://podcasts.apple.com/it/podcast/bitcoin-italia-podcast/id1448127905)
 - [Instagram](https://www.instagram.com/bip_show/?utm_medium=copy_link)
 
-### Luca Boiardi - The Crypto Gateway
+#### Luca Boiardi - The Crypto Gateway
 
 DeFi, Analisi findamentale token e chain, Analisi tecnica, Trading, Investimenti.
 
@@ -59,40 +61,45 @@ DeFi, Analisi findamentale token e chain, Analisi tecnica, Trading, Investimenti
 - [Telegram](https://t.me/TheCryptoGateway)
 - [Twitter](https://twitter.com/crypto_gateway)
 
-### Crypto Ita
+#### Crypto Ita
 
 DeFi, Analisi findamentale token e chain
 
 - [YouTube](https://www.youtube.com/c/CryptoIta)
 
-### Crypto Farm Italia
+#### Crypto Farm Italia
 
 DeFi, Farming.
 
 - [Canale YouTube](https://www.youtube.com/channel/UCaBxOlEJ8W0G094bNOhshgg)
 
-### Tiziano Tridico
+#### Tiziano Tridico
 
 - [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
 
-### Massimo S. Musumeci
+#### Massimo S. Musumeci
 
 Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 
 - [Canale YouTube](https://www.youtube.com/channel/UCOdy5vf94hkpIKQ0RVu0S2Q)
 - [Canale Telegram (Bitcoin Security & Freedom)](https://t.me/BitcoinSecPriv)
 
-### Marco Cavicchioli
+#### Marco Cavicchioli
 
 Notizie, Analisi del trend grossolane
 
 - [Canale YouTube](https://www.youtube.com/c/MarcocavicchioliIt)
 
-### Vito Lops
+#### Vito Lops
 
 Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Canale YouTube](https://www.youtube.com/user/vitoclaps)
+
+- [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
+- [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
+- [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
+- [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
 
 ## Risorse (EN)
 
@@ -100,43 +107,31 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Il Bitcoin Standard (Saifedean Ammous)](https://shop.usemlab.com/home/85-the-bitcoin-standard-edizione-italiana.html)
 
-### Coin Bureau
+### Divulgatori
+
+#### The CryptoDad
+
+Semplici tutorial per newbies
+
+- [Canale YouTube](https://www.youtube.com/c/CryptoDad)
+
+#### Coin Bureau
 
 Notizie, Analisi fondamentale token e chain
 
 - [Canale YouTube](https://www.youtube.com/c/CoinBureau)
 
-### Taiki Maeda
+#### Taiki Maeda
 
 Farming
 
 - [Canale YouTube](https://www.youtube.com/user/TheTaikster)
 
-### danku_r
+#### danku_r
 
 Terra, DeFi, NFT
 
 - [Canale YouTube](https://www.youtube.com/c/dankur)
-
-## Canali YouTube
-
-### In italiano
-
-#### Crypto
-
-- [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
-- [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
-
-#### Non solo crypto
-
-- [Ingegneri in borsa](https://www.youtube.com/c/Ingegneriinborsa) - Notizie, Finanza personale
-- [Leonardo Pinna](https://www.youtube.com/c/LeonardoPinna) - Investimenti ed educazione finanziaria
-
-### In inglese
-
-#### Crypto
-
-- [The CryptoDad](https://www.youtube.com/c/CryptoDad) - Semplici tutorial per newbies
 
 # Altro
 
