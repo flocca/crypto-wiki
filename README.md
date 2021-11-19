@@ -51,6 +51,7 @@
 
 - [Pocast](https://podcasts.apple.com/it/podcast/bitcoin-italia-podcast/id1448127905)
 - [Instagram](https://www.instagram.com/bip_show/?utm_medium=copy_link)
+- [Twitter](https://twitter.com/bip_show)
 
 #### Luca Boiardi - The Crypto Gateway
 
@@ -76,6 +77,7 @@ DeFi, Farming.
 #### Tiziano Tridico
 
 - [Canale YouTube](https://www.youtube.com/channel/UCY3TW6Oj67m6su5oiE80LwA)
+- [Twitter](https://twitter.com/TizianoTridico)
 
 #### Massimo S. Musumeci
 
@@ -89,12 +91,16 @@ Massimalista [Bitcoin](Bitcoin.md) specalizzato in privacy e sicurezza.
 Notizie, Analisi del trend grossolane
 
 - [Canale YouTube](https://www.youtube.com/c/MarcocavicchioliIt)
+- [Twitter](https://twitter.com/cavicchioli)
 
 #### Vito Lops
 
 Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Canale YouTube](https://www.youtube.com/user/vitoclaps)
+- [Twitter](https://twitter.com/VitoLops)
+
+#### Altri/Da sistemare
 
 - [AfterSide Crypto](https://www.youtube.com/c/AfterSideCrypto) - Notizie, Trading, Analisi tecnica dei grafici
 - [Il Marchese Del Crypto](https://www.youtube.com/c/IlMarcheseDelCrypto) - Defi
@@ -114,24 +120,28 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 Semplici tutorial per newbies
 
 - [Canale YouTube](https://www.youtube.com/c/CryptoDad)
+- [Twitter](https://twitter.com/The_CryptoDad)
 
 #### Coin Bureau
 
 Notizie, Analisi fondamentale token e chain
 
 - [Canale YouTube](https://www.youtube.com/c/CoinBureau)
+- [Twitter](https://twitter.com/coinbureau)
 
 #### Taiki Maeda
 
 Farming
 
 - [Canale YouTube](https://www.youtube.com/user/TheTaikster)
+- [Twitter](https://twitter.com/TaikiMaeda2)
 
 #### danku_r
 
 Terra, DeFi, NFT
 
 - [Canale YouTube](https://www.youtube.com/c/dankur)
+- [Twitter](https://twitter.com/danku_r)
 
 # Altro
 
