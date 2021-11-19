@@ -129,6 +129,7 @@ Notizie, Analisi fondamentale token e chain
 - [Canale YouTube](https://www.youtube.com/c/CoinBureau)
 - [Twitter](https://twitter.com/coinbureau)
 - [Instagram](https://www.instagram.com/coin.bureau/)
+- [Telegram](https://t.me/cbinsider)
 
 #### Taiki Maeda
 
