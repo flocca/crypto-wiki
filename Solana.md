@@ -25,3 +25,11 @@ Allo staking nativo esiste un'alternativa che rende possibile uno staking liquid
 - Spostare gli mSOL sulla app FTX (ex-Blockfolio) mettendoli a rendita al 8%.
 - In questo modo si otterrà un interesse composto del 15,20% circa.
 - Ho calcolato l'interesse composto in questo modo: (1 + 6,67%) x (1 + 8%) - 1
+
+## Chiusura degli account
+
+Su Solana si paga un affitto per mantenere le informazioni memorizzate. La prima volta che si effettuano transazioni dello stasso tipo (ad es. swap da USDT a USDC) viene creato un account (CREATE ACCOUNT). Il costo dell'affitto è circa 0.02 SOL.
+
+Gli account vuoti possono essere chiusi per recuperare completamente il costo dell'affitto. È molto semplice farlo con questa applicazione:
+
+https://www.draffle.io/tools
