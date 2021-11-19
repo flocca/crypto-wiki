@@ -28,7 +28,7 @@ Allo staking nativo esiste un'alternativa che rende possibile uno staking liquid
 
 ## Chiusura degli account
 
-Su Solana si paga un affitto per mantenere le informazioni memorizzate. La prima volta che si effettuano transazioni dello stasso tipo (ad es. swap da USDT a USDC) viene creato un account (CREATE ACCOUNT). Il costo dell'affitto è circa 0.02 SOL.
+Su Solana si paga un affitto per mantenere le informazioni memorizzate. La prima volta che si effettuano transazioni dello stasso tipo (ad es. swap da USDT a USDC) viene creato un account (CREATE ACCOUNT). Il costo dell'affitto è circa 0.002 SOL.
 
 Gli account vuoti possono essere chiusi per recuperare completamente il costo dell'affitto. È molto semplice farlo con questa applicazione:
 
