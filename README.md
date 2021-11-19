@@ -1,10 +1,5 @@
 # crypto-wiki
 
-## Libri
-
-- [Il Bitcoin Standard (Saifedean Ammous)](https://shop.usemlab.com/home/85-the-bitcoin-standard-edizione-italiana.html)
-- [Mastering Bitcoin (Andreas M. Antonopoulos, 2a edizione) - PDF](https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf)
-
 ## Concetti fondamentali
 
 - [Blockchain](Blockchain.md)
@@ -45,6 +40,10 @@
 - [FTX (ex-Blockfolio)](https://link.blockfolio.com/9dzp/47a6cbcb) - 8% su tutto fino a 10k$, prelievi gratis (anche erc20)
 
 ## Risorse (IT)
+
+### Libri
+
+- [Mastering Bitcoin (Andreas M. Antonopoulos, 2a edizione) - PDF](https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf)
 
 ### Bitcoin Italia Podcast
 
@@ -95,7 +94,11 @@ Giornalista del Sole 24 Ore, Finanza e investimenti
 
 - [Canale YouTube](https://www.youtube.com/user/vitoclaps)
 
-## Divulgatori (EN)
+## Risorse (EN)
+
+### Libri
+
+- [Il Bitcoin Standard (Saifedean Ammous)](https://shop.usemlab.com/home/85-the-bitcoin-standard-edizione-italiana.html)
 
 ### Coin Bureau
 
