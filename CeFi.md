@@ -1,4 +1,6 @@
-# Piattaforme CeFi
+# CeFi
+
+## Piattaforme CeFi
 
 - FTX (ex-Blockfolio)
 - Celsius
