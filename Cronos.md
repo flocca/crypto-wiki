@@ -7,7 +7,7 @@ Cronos è la prima chain che collega il mondo Cosmos ad Ethereum. Il vantaggio p
 Il crescere dell'ecosistema Crypto.com e la possibilità di fare farming in CRO rende ancora più interessante il token di Crypto.com.
 
 - [The Crypto Gateway - Cronos Chain (video, IT)](https://youtu.be/sBx4Bs31Prg)
-- [Configurazione MetaMask](https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta)
+- [Configurazione MetaMask (articolo, EN)](https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta)
 
 ## Piattaforme
 
