@@ -7,6 +7,7 @@
 
 - VVS Finance (dex)
 - Tectonic (money market)
+- [Beefy](https://app.beefy.finance/#/cronos) (aggregatore)
 
 ## Altre risorse
 
