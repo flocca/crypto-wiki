@@ -5,6 +5,7 @@
 - [Blockchain](Blockchain.md)
 - [Smart Contract](Smart%20Contract.md)
 - [DeFi](DeFi.md)
+- [CeFi](CeFi.md)
 
 ## Blockchain
 
