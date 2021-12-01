@@ -1,6 +1,6 @@
 # Cronos
 
-- [Cronos Chain (video, The Crypto Gateway](https://youtu.be/sBx4Bs31Prg)
+- [The Crypto Gateway - Cronos Chain (video, IT)](https://youtu.be/sBx4Bs31Prg)
 - [Configurazione MetaMask](https://cronos.crypto.org/docs/getting-started/metamask.html#connecting-to-the-cronos-mainnet-beta)
 
 ## Piattaforme
