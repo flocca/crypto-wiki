@@ -1,5 +1,6 @@
 # Solana
 
+- [Coin Bureau - Solana: Could SOL Hit $1000?! DEEP DIVE ☀️ (video, ENG)](https://youtu.be/enAoz-87D7A)
 - [Analisi (video, ITA - The Crypto Gateway)](https://youtu.be/azL1q-vAx1M)
 - [Analisi (video, ITA - Tiziano Tridico)](https://www.youtube.com/watch?v=GR1D7VrK5oY)
 - [Guida ai wallet ed allo staking dei SOL, moneta dell'ecosistema SOLANA (video, ITA - Tiziano Tridico)](https://youtu.be/s-LsJeibIlg)
@@ -16,7 +17,7 @@
 
 ## Mettere a rendita i SOL
 
-Essendo Solana un protocollo PoS (Proof Of Stake) è possibile mettere in staking i propri SOL delegandoli ai validatori che processsano le transazioni e fanno funzionare la rete.
+Solana è un protocollo Proof Of History, che per certi aspetti è simile ai protocolli PoS (Proof Of Stake) è infatti possibile mettere in staking i propri SOL delegandoli ai validatori che processsano le transazioni e fanno funzionare la rete.
 
 Allo staking nativo esiste un'alternativa che rende possibile uno staking liquido, con la possibilità di incrementare ulteriormente gli interessi dello staking.
 
